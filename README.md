@@ -37,8 +37,8 @@ Você deve desenvolver uma aplicação Vue.js que consuma uma API para listar pr
 ### Endpoints da API
 
 - **Página 1:** [https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/1.json](https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/1.json)
-- **Página 2:** [https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/1.json](https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/2.json)
-- **Demais páginas:** [https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/1.json](https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/[...].json)
+- **Página 2:** [https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/2.json](https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/2.json)
+- **Demais páginas:** [https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/3.json](https://raw.githubusercontent.com/kebookprogramacao9/teste-kebook/main/pages/3.json)
 
 ### Estrutura de Dados
 
