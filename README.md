@@ -43,7 +43,7 @@ Você deve desenvolver uma aplicação Vue.js que consuma uma API para listar pr
 ### Estrutura de Dados
 
 Cada arquivo JSON possui a seguinte estrutura:
-```json
+```jsonc
 {
 	"data": {
 		"products": [
@@ -59,9 +59,10 @@ Cada arquivo JSON possui a seguinte estrutura:
 					"avatar": {
 						"filename_disk": "nome-do-arquivo-avatar.jpg"
 					}
-				}
+				},
+				"price": 999.99
 			},
-			...
+			//...
 		]
 	}
 }
